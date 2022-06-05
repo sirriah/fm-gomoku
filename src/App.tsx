@@ -10,7 +10,7 @@ function App() {
                 <p className="bg-red-600">
                     See <code>src/App.tsx</code> and save to reload.
                 </p>
-                <p>moje gomoku</p>
+                <p>moje gomdfdfoku ahoj</p>
                 <a
                     className="App-link"
                     href="https://reactjs.org"
